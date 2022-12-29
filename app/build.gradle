@@ -84,6 +84,6 @@ dependencies {
 
     testImplementation 'org.jetbrains.kotlin:kotlin-stdlib:1.7.20'
     testImplementation 'org.jetbrains.kotlin:kotlin-test-junit:1.6.21'
-    testImplementation 'com.nhaarman:mockito-kotlin:2.1.0'
-    testImplementation 'org.amshove.kluent:kluent:2.1.0'
+//    testImplementation 'com.nhaarman:mockito-kotlin:2.1.0'
+//    testImplementation 'org.amshove.kluent:kluent:2.1.0'
 }

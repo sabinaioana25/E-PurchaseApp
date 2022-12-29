@@ -7,4 +7,8 @@ class MainViewModel() : ViewModel() {
     init {
         // TODO
     }
+
+    fun totalBasketItems(items: Int) : Int {
+        return items
+    }
 }
